@@ -1,0 +1,50 @@
+.section1{
+  background-color:black;
+  height: 80px;
+
+}
+
+.backround{
+  height: 70px;
+  width: 100%;
+}
+
+h1{
+  float: left;
+}
+ 
+nav{
+  font-size: 25px;
+  float: left;
+}
+
+nav ul li {
+ 
+  margin-left: 5px;
+  margin-left: 5px;
+  display: inline-block;
+}
+h2{
+  color: black;
+  font-size: 35px;
+  margin-bottom: 150px;
+}
+.section2{
+  float: left;
+  width: 50%;
+
+
+}
+
+.section3{
+  float: right;
+  width: 50%;
+}
+
+img{
+  width: 300px;
+  height: 250px;
+}
+footer{
+  text-align: end;
+}
